@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1428959765 source:c:\users\timsnky\dropbox\programming\c\cars\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+
